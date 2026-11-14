@@ -1,4 +1,4 @@
-# Experiment 5: Synchronization Mechanisms in Parallel Programs
+# Experiment 3 : Synchronization Mechanisms in Parallel Programs
 
 ## Objective
 To implement and compare synchronization mechanisms in parallel programs, including race conditions, critical sections, atomic operations, barriers, semaphores, and locks.
